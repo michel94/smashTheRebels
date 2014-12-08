@@ -1,4 +1,4 @@
-smashTheRebels
+Smash the Rebels!
 ==============
 
-Ludum Dare 31
+Project for Ludum Dare 31
